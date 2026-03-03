@@ -1,6 +1,6 @@
 <div align="center">
 
-# Improved Windows Glass Theme
+# Liquid Glass Theme
 
 <div align="center">
 <img src="Preview-1.png" width="45%" height="auto" /> <img src="Preview-2.png" width="45%" height="auto" />
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-#### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki/To%E2%80%90Do) page.
+#### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/To%E2%80%90Do) page.
 
 </div>
 
@@ -25,12 +25,12 @@ Follow the instructions below to setup the WindowsGlass themes on your system.
     * [Taskbar](/Taskbar/README.md) - Instructions for setting up the Windows Glass Taskbar theme.
     * [Notification Center](/Notification%20Center/README.md) - Instructions for setting up the Windows Glass Notification Center theme.
     * [File Explorer](/File%20Explorer/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
-* Check the [Excluding Unwatned Processes](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki/Excluding-Unwanted-Processes) page on the [wiki](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki) to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
+* Check the [Excluding Unwatned Processes](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki/Excluding-Unwanted-Processes) page on the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki) to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
 
 ---
 
 <div align="center">
 
-#### If you have any issues or need help, check the [wiki](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/wiki). If your issue isn't listed there, feel free to [open an issue](https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/issues).
+#### If you have any issues or need help, check the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki). If your issue isn't listed there, feel free to [open an issue](https://github.com/The-Back-Room/Liquid-Glass-Theme/issues).
 
 </div>
