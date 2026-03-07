@@ -2,11 +2,7 @@
 
 # Liquid Glass Theme
 
-<div align="center">
 <img src="Preview-1.png" width="45%" height="auto" /> <img src="Preview-2.png" width="45%" height="auto" />
-</div>
-
-<div align="center">
 
 #### If you'd like to help, feel free to open a PR with your improvements and/or fixes!<br />You can see a list of currently planned changes in our [TO-DO](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/To%E2%80%90Do) page.
 
