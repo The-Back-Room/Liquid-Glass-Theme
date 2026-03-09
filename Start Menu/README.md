@@ -5,19 +5,12 @@
 * **Windhawk Mods**:  
   * [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
 
-* **Fonts**: 
-  * [vivo Sans Clock Stencil Regular](/vivoSansClockStencil.ttf)
-  * [vivo Sans EN VF](/vivoSansENVF.ttf)
-
 ---
 
-
-<div align="center">
-<img src="Preview-1.png" width="45%" height="auto" /> <img src="Preview-2.png" width="45%" height="auto" />
-</div>
+<img src="Preview.png" width="100%" height="auto" />
 
 > [!NOTE]
-> This theme supports both the new and old start menu layouts and features a clean glass UI with the Phone Link widget disabled to improve appearance and privacy.
+> This theme is built for the new redesigned Windows 11 start menu
 
 <!--
 ## Theme selection
@@ -25,7 +18,6 @@
 The theme is integrated into the mod and can simply be selected from the mod's
 settings:
 
-* Download and install the fonts listed in the requirements above.
 * Open the Windows 11 Start Menu Styler mod in Windhawk.
 * Go to the "Settings" tab.
 * Select the theme and save the settings.
@@ -35,7 +27,6 @@ settings:
 
 The theme styles can also be imported manually. To do that, follow these steps:
 
-* Download and install the fonts listed in the requirements above.
 * Open the Windows 11 Start Menu Styler mod in Windhawk.
 * Go to the "Advanced" tab.
 * Copy the content below to the text box under "Mod settings" and click "Save".
