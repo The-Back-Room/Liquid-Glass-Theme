@@ -205,8 +205,8 @@ The theme styles can also be imported manually. To do that, follow these steps:
 "styleConstants[3]": "ElementBorderThickness=0.3,0.3,0.3,1",
 "styleConstants[4]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
 "styleConstants[5]": "BorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"0.0\" /><GradientStop Color=\"#50404040\" Offset=\"0.25\" /><GradientStop Color=\"#50808080\" Offset=\"1\" /></LinearGradientBrush>",
-"styleConstants[6]": "CornerRadius=10",
-"styleConstants[7]": "ElementCornerRadius=6",
+"styleConstants[6]": "CornerRadius=6",
+"styleConstants[7]": "ElementCornerRadius=4",
 "styleConstants[8]": "AccentBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"{ThemeResource SystemAccentColorLight}\" TintOpacity=\"0.2\" />",
 "resourceVariables[0].variableKey": "",
 "resourceVariables[0].value": ""
