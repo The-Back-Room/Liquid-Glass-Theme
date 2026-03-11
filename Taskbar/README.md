@@ -15,7 +15,10 @@
 
 <img src="Default-Preview.png" width="100%" height="auto" />
 
-<!--
+>[!NOTE]
+> Version 4 or higher of the Taskbar Music Lounge mod for Windhawk to enable all features.  
+
+<!-- 
 ## Theme selection
 
 The theme is integrated into the mod and can simply be selected from the mod's
@@ -236,8 +239,8 @@ The theme styles can also be imported manually. To do that, follow these steps:
 "styleConstants[6]": "ElementBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#202020\" TintOpacity=\"0.2\" />",
 "styleConstants[7]": "ActiveBG=<WindhawkBlur BlurAmount=\"40\" TintColor=\"#FFFFFF\" TintOpacity=\"Opacity=\"0.8\" />",
 "styleConstants[8]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
-"styleConstants[9]": "CornerRadius=6",
-"styleConstants[10]": "ElementCornerRadius=4",
+"styleConstants[9]": "CornerRadius=10",
+"styleConstants[10]": "ElementCornerRadius=6",
 "resourceVariables[0].variableKey": "",
 "resourceVariables[0].value": ""
 }
@@ -252,7 +255,7 @@ This theme also includes a high dpi variant of the taskbar. *(Tested on 1920x108
 
 <img src="High-DPI-Preview.png" width="100%" height="auto" />
 
-<!--
+<!-- 
 ## Theme selection
 
 The theme is integrated into the mod and can simply be selected from the mod's
@@ -473,8 +476,8 @@ The theme styles can also be imported manually. To do that, follow these steps:
 "styleConstants[6]": "ElementBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#202020\" TintOpacity=\"0.2\" />",
 "styleConstants[7]": "ActiveBG=<WindhawkBlur BlurAmount=\"40\" TintColor=\"#FFFFFF\" TintOpacity=\"Opacity=\"0.8\" />",
 "styleConstants[8]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
-"styleConstants[9]": "CornerRadius=6",
-"styleConstants[10]": "ElementCornerRadius=4",
+"styleConstants[9]": "CornerRadius=10",
+"styleConstants[10]": "ElementCornerRadius=6",
 "resourceVariables[0].variableKey": "",
 "resourceVariables[0].value": ""
 }
@@ -489,7 +492,7 @@ This theme also includes a full width variant.
 
 <img src="Full-Width-Preview.png" width="100%" height="auto" />
 
-<!--
+<!-- 
 ## Theme selection
 
 The theme is integrated into the mod and can simply be selected from the mod's
@@ -699,8 +702,8 @@ The theme styles can also be imported manually. To do that, follow these steps:
 "styleConstants[6]": "ElementBG=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#202020\" TintOpacity=\"0.2\" />",
 "styleConstants[7]": "ActiveBG=<WindhawkBlur BlurAmount=\"40\" TintColor=\"#FFFFFF\" TintOpacity=\"Opacity=\"0.8\" />",
 "styleConstants[8]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>",
-"styleConstants[9]": "CornerRadius=6",
-"styleConstants[10]": "ElementCornerRadius=4",
+"styleConstants[9]": "CornerRadius=10",
+"styleConstants[10]": "ElementCornerRadius=6",
 "resourceVariables[0].variableKey": "",
 "resourceVariables[0].value": ""
 }
@@ -814,9 +817,6 @@ The theme styles can also be imported manually. To do that, follow these steps:
 
 ### Taskbar Music Lounge (Optional)
 Optional feature to add a native music player widget to the taskbar. Replaces the taskbar widgets pane.  
-
->[!NOTE]
-> Version 4 or higher of the Taskbar Music Lounge mod for Windhawk to enable all features.  
 
 <img src="Taskbar-Music-Lounge-Preview.png" width="100%" height="auto" />
 
