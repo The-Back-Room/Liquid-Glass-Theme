@@ -20,12 +20,12 @@ Follow the instructions below to setup the Liquid Glass themes on your system.
 * [File Explorer](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/blob/main/File%20Explorer/README.md) - Instructions for setting up the Windows Glass File Explorer theme.
 
 
-Check the [Excluding Unwanted Processes](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki/Excluding-Unwanted-Processes) page on the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki) to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
+Check the [Excluding Unwanted Processes](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/Excluding-Unwanted-Processes) page to learn how to exclude MS Office apps and other unwanted and/or incompatible processes.
 
 ---
 
 <div align="center">
 
-#### If you have any issues or need help, check the [wiki](https://github.com/The-Back-Room/Liquid-Glass-Theme/wiki). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/boards).
+#### If you have any issues or need help, check the [wiki](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/wikis/pages). If your issue isn't listed there, feel free to [open an issue](https://gitlab.com/the-back-room/windhawk/Liquid-Glass-Theme/-/boards).
 
 </div>
